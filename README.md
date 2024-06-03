@@ -1,3 +1,7 @@
+
+![](https://github.com/esraelif/my_bag/blob/main/public/mybag.gif)
+
+
 #Consists of few libraries
 
 redux (core library, state management)
