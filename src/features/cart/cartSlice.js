@@ -1,6 +1,6 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
-import { openModal } from '../modal/modalSlice';
+import { openModal } from '../modal/ModalSlice';
 
 const url = 'https://www.course-api.com/react-useReducer-cart-project';
 
